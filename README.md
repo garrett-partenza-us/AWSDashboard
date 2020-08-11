@@ -1,6 +1,7 @@
 # **KBR Summer 2020 Internship Project**
 
-### Creating a DevSecOps Data-Analytics Dashboard for AWS Services Using ELK stack. 
+### Creating a DevSecOps Data-Analytics Dashboard for AWS Services Using ELK stack.
+###### Abstract—DevSecOps is a methodology that combines development, security, and operations into a single process of software development. This paper explores how one could create a set of dashboards that displays that data from DevSecOps AWS services in a meaningful manner.
 
 ##### Developers: Garrett Partenza and AJ Ellis
 
