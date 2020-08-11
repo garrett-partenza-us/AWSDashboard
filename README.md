@@ -3,5 +3,4 @@
 ### Creating a DevSecOps Data-Analytics Dashboard for AWS Services Using ELK stack. 
 
 Developers:
-Garrett Partenza
-AJ. Ellis
+Garrett Partenza/nAJ. Ellis
